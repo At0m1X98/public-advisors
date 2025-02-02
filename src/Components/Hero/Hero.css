@@ -1,0 +1,115 @@
+.hero {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to right, rgba(20, 65, 107, 0.9), rgba(31, 99, 163, 0.45));
+    position: relative;
+    overflow: hidden;
+    color: var(--text-color);
+}
+.hero .video-background {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+.hero-container {
+    width: 65%;
+    height: 65vh;
+    margin: 25vh auto;
+    display: flex;
+    gap: 10%;
+}
+.hero-left {
+    box-shadow: 0 0 8px 1px var(--second-color);
+    border-radius: 85px 0 85px 0;
+    background-color: rgba(130, 130, 130, 0.267);
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10vh 2vw;
+}
+.hero-left h1 {
+    font-size: 4rem;
+    line-height: 3rem;
+}
+.hero-left p {
+    font-size: 1.25rem;
+}
+.hero-left button {
+    width: 45%;
+    height: 10%;
+    border: none;
+    background-color: var(--second-color);
+    color: var(--text-color);
+    border-radius: 15px;
+    box-shadow: 0 0 3px .25px black;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+.hero-left button:hover {
+    background-color: black;
+    box-shadow: 0 0 12px .25px var(--second-color);
+    transform: scale(1.05);
+}
+.hero-right {
+    width: 50%;
+}
+.slider {   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.slide-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.slide {
+    width: 95%;
+    border-radius: 15px;
+}
+.prev, .next {
+    width: 35px;
+    height: 35px;
+    border-radius: 35px;
+    border: none;
+    background-color: var(--second-color);
+    color: var(--text-color);
+    box-shadow: 0 0 3px .25px black;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+.prev:hover, .next:hover {
+    background-color: black;
+    box-shadow: 0 0 12px .25px var(--second-color);
+    transform: scale(1.05);
+}
+.slide-butt {
+    margin-top: 1.5rem;
+    display: flex;
+    width: 15%;
+    justify-content: space-between;
+}
+.slide-butt button{
+    width: 15px;
+    height: 15px;
+    border-radius: 35px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+.slide-butt .buttonactive {
+    background-color: var(--second-color);
+}
