@@ -1,31 +1,19 @@
 .hero {
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(to right, rgba(20, 65, 107, 0.9), rgba(31, 99, 163, 0.45));
     position: relative;
     overflow: hidden;
     color: var(--text-color);
-}
-.hero .video-background {
-    width: 100%;
-    height: auto;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
 }
 .hero-container {
     width: 65%;
     height: 65vh;
     margin: 25vh auto;
     display: flex;
-    gap: 10%;
 }
 .hero-left {
     box-shadow: 0 0 8px 1px var(--second-color);
-    border-radius: 85px 0 85px 0;
     background-color: rgba(130, 130, 130, 0.267);
-    width: 40%;
     display: flex;
     flex-direction: column;
     justify-content: space-around;

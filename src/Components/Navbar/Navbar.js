@@ -56,19 +56,13 @@ const Navbar = () => {
                         className={activeSection === 'hero' ? 'active' : ''}
                         onClick={() => handleScrollTo('hero')}
                     >
-                        O Nás
+                        O NÁS
                     </li>
                     <li 
                         className={activeSection === 'offer' ? 'active' : ''}
                         onClick={() => handleScrollTo('offer')}
                     >
                         SLUŽBY
-                    </li>
-                    <li 
-                        className={activeSection === 'team' ? 'active' : ''}
-                        onClick={() => handleScrollTo('team')}
-                    >
-                        REZERVACE
                     </li>
                     <li 
                         className={activeSection === 'contact' ? 'active' : ''}

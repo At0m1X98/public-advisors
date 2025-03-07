@@ -16,6 +16,7 @@
 .navbar-scrolled {
     height: 10vh;
     background-color: var(--main-color);
+    border-bottom: 2px solid var(--second-color);
 }
 .nav-left {
     width: auto;
