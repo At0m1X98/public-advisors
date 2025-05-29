@@ -1,0 +1,63 @@
+{
+  "welcome": "Vítejte v aplikaci pro veřejné poradce",
+  "nav": {
+    "about": "O Nás",
+    "services": "Služby",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Public Advisors",
+    "subtitle": "Jsme mladý dynamický tým plný energie. Orientujeme se v dnešním uspěchaném světě a nebojíme se výzev."
+  },
+  "about": {
+    "title": "- O nás -",
+    "description": "Vítejte v Public Advisors, vašem spolehlivém partnerovi pro zakládání firem, administrativní služby, personální řešení a vzdělávací kurzy. Nabízíme komplexní služby, které zahrnují vše od zakládání firem až po zajišťování administrativních úkonů, čímž vám usnadňujeme podnikání. S Public Advisors je vaše podnikání efektivnější, snadnější a připravené na růst. Ceník služeb Naše služby zahrnují, zakládání firem, zajištění překladatelů a pomoc při vyřizování víz, trvalého bydliště i občanského průkazu. Zajistíme také další administrativní úkony, také nabízené naše vzdělávací kurzy ohledně založení firem OSVČ a to ve vybraných jazycích abyste se mohli plně soustředit na své podnikání. S Public Advisors mate vše potřebné pro hladký chod vaší společnosti."
+  },
+  "form": {
+    "name": "Vaše jméno",
+    "email": "Váš e-mail",
+    "phone": "Váš telefon",
+    "message": "Zpráva",
+    "submit": "Odeslat zprávu"
+  },
+  "offer": {
+    "title": "- Nabídka -",
+    "description": "Naše služby zahrnují, zákládání firem, zajitění překladatelů a pomoc při vyřizování víz, trvalého bydliště i občanského průkazu. Zajistíme také další administrativní úkony, také nabízené naše vzdělávací kurzy ohledně založení firem OSVČ a to ve vybraných jazycích abyste se mohli plně soustředit na své podnikání. S Public Advisors máte vše potřebné pro hladký chod Vaší společnosti.",
+    "clickPrompt": "Klikněte na položku pro zaslání zprávy",
+    "item1": {
+      "title": "Zakládám firmu",
+      "description": "Provedeme vás všemi povinnostmi k založení s.r.o. a OSVČ."
+    },
+    "item2": {
+      "title": "E-learning",
+      "description": "Nabízíme levnější a edukativní variantu kdy můžeme využít náš program e-learning kde vás zasvětíme ohledně české administrativy, investic a podnikání."
+    },
+    "item3": {
+      "title": "Zajištění překladu",
+      "description": "Seženeme za vás soudního překladatele a vše s ním domluvíme."
+    },
+    "item4": {
+      "title": "Vyřízení trvalého bydliště a občanského průkazu",
+      "description": "Pomůžeme vám projít náročnými administrativními kroky k dosažení trvalého bydliště a občanského průkazu."
+    },
+    "item": {
+      "title": "Ostatní služby",
+      "description": "Potřebujete pomoct či poradit s něčím jiným? Obraťte se na nás a my uděláme vše co bude v našich silách."
+    }
+  },
+  "contact": {
+    "title": "- Kontaktuj nás -",
+    "description": "Pokud jste nenašel, co hledáte, neváhejte nás kontaktovat prostřednictvím e-mailu nebo telefonu. Jsme tu, abychom vám pomohli.",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "address": "Adresa",
+    "form": {
+      "title": "Předmět",
+      "name": "Jméno",
+      "email": "Váš e-mail",
+      "phone": "Váš telefon",
+      "message": "Zpráva",
+      "submit": "Odeslat"
+    }
+   }
+}

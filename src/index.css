@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+	--color-primary: rgb(20, 65, 107);
+	--color-opac: rgba(20, 65, 107, .75);
+}
+
+@keyframes slow-bounce {
+	0%, 100% {
+		transform: translateY(0);
+	}
+	50% {
+		transform: translateY(-10px);
+	}
+}
+
+.slow-bounce {
+	animation: slow-bounce 1.75s infinite;
+}
+html {
+  scroll-behavior: smooth;
+}

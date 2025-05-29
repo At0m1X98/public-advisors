@@ -1,0 +1,63 @@
+{
+  "welcome": "Welcome to the Public Advisor App",
+  "nav": {
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Public Advisors",
+    "subtitle": "We are a young, dynamic team full of energy. We navigate today’s fast-paced world and are not afraid of challenges."
+  },
+  "about": {
+    "title": "- About Us -",
+    "description": "Welcome to Public Advisors, your reliable partner for company formation, administrative services, HR solutions, and educational courses. We offer comprehensive services that cover everything from starting a business to handling administrative tasks, making your entrepreneurial journey easier. With Public Advisors, your business becomes more efficient, streamlined, and ready to grow. Our pricing includes company formation, interpreter services, and assistance with visas, permanent residence, and ID processing. We also provide other administrative support as well as educational courses on starting a sole proprietorship in selected languages, so you can fully focus on your business. With Public Advisors, you have everything you need for smooth business operations."
+  },
+  "form": {
+    "name": "Your Name",
+    "email": "Your Email",
+    "phone": "Your Phone",
+    "message": "Message",
+    "submit": "Send Message"
+  },
+  "offer": {
+    "title": "- Offer -",
+    "description": "Our services include company formation, arranging translators, and assistance with visa processing, permanent residence, and ID cards. We also provide other administrative tasks, along with our educational courses about starting companies and sole proprietorships in selected languages so you can fully focus on your business. With Public Advisors, you have everything you need for smooth company operations.",
+    "clickPrompt": "Click on an item to send us a message",
+    "item1": {
+      "title": "Company Formation",
+      "description": "We guide you through all the requirements to establish an LLC or sole proprietorship."
+    },
+    "item2": {
+      "title": "E-learning",
+      "description": "We offer a cheaper and educational option through our e-learning program, where we introduce you to Czech administration, investments, and business."
+    },
+    "item3": {
+      "title": "Translation Services",
+      "description": "We will arrange a certified translator for you and handle all communication."
+    },
+    "item4": {
+      "title": "Permanent Residence and ID Card Processing",
+      "description": "We help you navigate the complex administrative steps to obtain permanent residence and ID cards."
+    },
+    "item": {
+      "title": "Other Services",
+      "description": "Need help or advice with something else? Contact us and we will do everything in our power to assist you."
+    }
+  },
+  "contact": {
+    "title": "- Contact Us -",
+    "description": "If you haven't found what you're looking for, please don't hesitate to contact us via email or phone. We're here to assist you.",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "form": {
+      "title": "Subject",
+      "name": "Name",
+      "email": "Your email",
+      "phone": "Your phone",
+      "message": "Message",
+      "submit": "Send"
+    }
+  }
+}
